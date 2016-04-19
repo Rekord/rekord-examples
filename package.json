@@ -1,0 +1,17 @@
+{
+  "name": "rekord-examples",
+  "version": "1.2.0",
+  "description": "rekord examples - real-time & offline capable applications",
+  "author": "Philip Diffenderfer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rekord/rekord-examples.git"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "clickermonkey-pubsubjs": "~0.0.2",
+    "body-parser": "~1.0.1",
+    "node-uuid": "^1.4.3"
+  }
+}
