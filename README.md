@@ -1,5 +1,7 @@
 # ![Logo](https://avatars2.githubusercontent.com/u/18293077?v=3&s=100) Rekord Examples
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Rekord/rekord/blob/master/LICENSE)
+
 Rekord is a javascript ORM that is offline & real-time capable.
 
 This project contains examples and comes with a simple REST server and a PUB/SUB server for the real-time enabled applications.
