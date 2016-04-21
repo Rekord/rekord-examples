@@ -1,4 +1,4 @@
-# ![Logo](https://avatars2.githubusercontent.com/u/18293077?v=3&s=100) Rekord Examples
+# <img src="https://raw.githubusercontent.com/Rekord/rekord/master/images/rekord-color.png" width="60"> Rekord Examples
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Rekord/rekord/blob/master/LICENSE)
 
